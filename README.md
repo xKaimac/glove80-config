@@ -2,6 +2,8 @@
 
 Small changes to the default Moergo config, just swapping the right hand arrow keys (up/down) so that they're in the same order as VIM movements.
 
+![Keyboard Layout](glove80-layout.png)
+
 ## Firmware Files
 To locate your firmware files and reflash your Glove80...
 1. Click "Actions" in the main navigation, and in the left navigation click the "Build" link.
