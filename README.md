@@ -2,7 +2,14 @@
 
 Small changes to the default Moergo config, just swapping the right hand arrow keys (up/down) so that they're in the same order as VIM movements.
 
+## Base Layer
 ![Keyboard Layout](glove80-layout.png)
+---
+## Lower Layer
+![Keyboard Layout](glove80-lower.png)
+---
+## Magic Layer
+![Keyboard Layout](glove80-magic.png)
 
 ## Firmware Files
 To locate your firmware files and reflash your Glove80...
